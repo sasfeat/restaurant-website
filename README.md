@@ -1,2 +1,2 @@
 # spa_angularjs_week5
-Restaurant website on angularjs
+[Restaurant website](https://sasfeat.github.io/spa_angularjs_week5) on angularjs
